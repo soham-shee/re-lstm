@@ -1,9 +1,9 @@
 # Load Lens 😎
 
 [![kaggle](https://camo.githubusercontent.com/0d9d4c150c1ea613d3bf3f89ea6f9323ed808b60ffef0ce7d942913aa33a256a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3230413545383f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465)](https://www.kaggle.com/code/sohamshee/gru-model-load-forecasting)\
-This ML model is designed for load forecasting using Gated Recurrent Units (GRU). This user-friendly
+This ML model is designed for load forecasting using LSTM. This user-friendly
 app empowers users to input their past values data, specify the number of epochs, and set the 
-batch size for training a GRU-based model. 
+batch size for training a LSTM-based model. 
 By leveraging the GRU architecture, the app efficiently captures temporal dependencies in the 
 data, making it ideal for accurate load forecasting. Once the model is trained, users can easily 
 download the trained model for future use, ensuring they have a reliable tool at their fingertips
