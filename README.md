@@ -22,7 +22,7 @@ forecasting needs.
 Clone the project
 
 ```bash
-  git clone https://github.com/soham-shee/LoadLens.git
+  git clone [https://github.com/soham-shee/LoadLens.git](https://github.com/soham-shee/re-lstm.git)
 ```
 
 Install dependencies
