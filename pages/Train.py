@@ -65,7 +65,7 @@ if uploaded_files:
     dfs = []
     
     for uploaded_file in uploaded_files:
-        df = pd.read_excel(uploaded_file)
+        df = pd.read_excel(uploaded_file, engine="openpyxl")
         st.write(f"Filename: {uploaded_file.name}")
         df = df[['Date N Time', 'M1_PWR']]
         # st.dataframe(df)
